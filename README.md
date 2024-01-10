@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Software Engineering Graduate with a grade of 2.0
+
 Check out my pinned projects below!
 
 #### Web Development:
