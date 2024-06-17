@@ -20,7 +20,7 @@ Check out my pinned projects below!
 - **[SommerObstApp](https://github.com/Darjusch/SommerObstApp):**
   An app for managing employees, facilitating communication, updating product stock, and receiving event notifications.
 
-- 🔭 **Skills:** JavaScript, TypeScript, Node.js, MongoDB, AWS, CI/CD, Testing, React, Dart, Flutter, Kubernetes, Agile Methods, and more that we can discuss :)
+- 🔭 **Skills:** JavaScript, TypeScript, Node.js, React, Vuejs, MongoDB, AWS, CI/CD, Testing, React, Dart, Flutter, Kubernetes, Agile Methods, and more that we can discuss :)
 - 🌱 **Currently working on:** Improving my React skills to become a full-stack developer
 - 👯 **Open for:** Job offers or freelance work
 - 📫 **How to reach me:** Darjusch.schrand@code.berlin
